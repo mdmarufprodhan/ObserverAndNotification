@@ -12,7 +12,7 @@ import UIKit
 class ObserverViewController: UIViewController {
     
      var message: String = ""
-
+    
     @IBOutlet weak var textField: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
